@@ -5,7 +5,7 @@ import Card2 from '../COMPONENT/Card2'
 import Container from '@mui/material/Container'
 import Grid from '@mui/material/Grid'
 import H1 from '../COMPONENT/H1'
-import Write from '../COMPONENT/write'
+import Write from '../COMPONENT/Write'
 import Button from '../COMPONENT/Button'
 
 const App = () => {
